@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648859658 source:e:\documents\ruhuna\sem2\codeblocks\question 2\main.cpp
+	<iostream>
+	"cmatrix.h"
+
+1648859730 source:e:\documents\ruhuna\sem2\codeblocks\question 2\src\cmatrix.cpp
+	"cmatrix.h"
+
+1648859802 e:\documents\ruhuna\sem2\codeblocks\question 2\include\cmatrix.h
+	<iostream>
+
